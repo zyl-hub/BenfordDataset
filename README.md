@@ -1,3 +1,3 @@
 bilibili_rawdata.py为爬取bilibili视频数据的脚本
 
-dataset文件夹中存放的是从bilibili上爬取的视频的播放量、弹幕数、点赞数、投币数、收藏数、分享数对应的csv文件
+BenfordDataset文件夹中存放的是从bilibili上爬取的视频的播放量、弹幕数、点赞数、投币数、收藏数、分享数对应的csv文件
